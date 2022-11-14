@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presentation Card</string>
+    <string name="title">Android Developer</string>
+    <string name="name_last">Pelizzoni Maximiliano</string>
+    <string name="mail">maxi96p@gmail.com</string>
+    <string name="country">Argentina</string>
+    <string name="github">GitHub</string>
+</resources>
